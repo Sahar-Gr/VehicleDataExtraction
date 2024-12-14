@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../ESP_ultrason_firebase"
+		},
+		{
+			"name": "PFE",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
